@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    margin-left: 30px;
+}
+
+
+h1 {
+    color: red;
+    font-size: 72px;
+}
+
+p {
+    font-size: 28px;
+    color: green;
+
+}
+
+p a {
+    color: blue;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+
+#boba  {
+    color: purple;
+
+}
+
+.grogu {
+    color: rgba(170, 170, 79, 0.914);
+
+}
+
+image {
+    image-resolution: ;
+}
